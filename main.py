@@ -1,4 +1,5 @@
-    
+# ∑(d|n, d<n) d = σ(n) - n. by Leonhard Euler
+# Erdős–Gallai / Brent
 import time
 
 def sum_proper_divisors(n, div_sums, primes):
